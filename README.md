@@ -21,12 +21,11 @@ Configurations for the OS X application [Enjoy2](https://github.com/fyhuang/enjo
 
 ## Notes
 
-* Please design your configuration to work with the default game keyboard/mouse conguration for the application.
-* If you have a new configuration for an application that already has a config, please add a number to the end of the filename, or add a dash and put a description of what's different.
-  * For example, if you have a new "Risk of Rain" config, name the configuration "Risk of Rain2"
-  * Or, you can name your config "Minecraft - Inverted Y Axis"
+* Please name your files as `Controller name - Application name - Alternative name`
+  * `Alternative name`: This is optional and is a place to put a note like `Inverted Y Axis`
+* Please design your configuration to work with the default keyboard/mouse conguration for the application.
 
-##
+## Standard configurations
 
 ```
      _________                                _________
@@ -61,6 +60,11 @@ Configurations for the OS X application [Enjoy2](https://github.com/fyhuang/enjo
    \________/                                 \_________/
                   Logitech Dual Action
 ```
+
+### First person standard controls
+
+Based on the [Halo Controls](http://halo.wikia.com/wiki/Halo_Controls)
+
 ```
 +---------------+--------------------+---------------------------+
 | Dual Action   | XBox Controller    | Action                    |
@@ -69,9 +73,9 @@ Configurations for the OS X application [Enjoy2](https://github.com/fyhuang/enjo
 | 3             | B                  | Melee attack              |
 | 1             | X                  | Reload weapon/Action      |
 | 4             | Y                  | Switch weapons            |
-|               | Left Analog        | Movement                  |
+|          Left Analog               | Movement                  |
 | 11            | Left Analog Click  | Crouch                    |
-|               | Right Analog       | Camera                    |
+|          Right Analog              | Camera                    |
 | 12            | Right Analog Click | Zoom                      |
 | 6             | Right Trigger      | Fire primary weapon       |
 | 5             | Left Trigger       | Throw grenade             |
@@ -79,6 +83,3 @@ Configurations for the OS X application [Enjoy2](https://github.com/fyhuang/enjo
 |               | Directional Pad    | Menu navigation           |
 +---------------+--------------------+---------------------------+
 ```
-
-
-
