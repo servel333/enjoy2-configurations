@@ -21,6 +21,7 @@ Configurations for the OS X application [Enjoy2](https://github.com/fyhuang/enjo
 
 ## Notes
 
+* When you make changes, make sure to completely exit Enjoy2. It doesn't update configs until exit.
 * Please name your files as `Controller name - Application name - Alternative name`
   * `Alternative name`: This is optional and is a place to put a note like `Inverted Y Axis`
 * Please design your configuration to work with the default keyboard/mouse conguration for the application.
