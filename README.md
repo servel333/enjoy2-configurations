@@ -6,7 +6,7 @@ Configurations for the OS X application [Enjoy2](https://github.com/fyhuang/enjo
 # Quick start
 
 * Install Enjoy2
-* Open a terminal window
+* Open iTerm
 * `cd /Users/$(whoami)/Library/Application Support/Enjoy2`
 * `git clone git@github.com:servel333/enjoy2-configurations.git`
 
