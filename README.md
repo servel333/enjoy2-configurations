@@ -18,3 +18,9 @@ Configurations for the OS X application [Enjoy2](https://github.com/fyhuang/enjo
 * `git commit -m "DESCRIBE THE CHANGE"`
 * `git push downstream master`
 * Create a pull request with your change
+
+## Notes
+
+* If you have a new configuration for an application that already has a config, please add a number to the end of the filename, or add a dash and put a description of what's different.
+  * For example, if you have a new "Risk of Rain" config, name the configuration "Risk of Rain2"
+  * Or, you can name your config "Minecraft - Inverted Y Axis"
